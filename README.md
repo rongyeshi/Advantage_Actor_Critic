@@ -1,6 +1,6 @@
 # N-Step Advantage Actor-Critic to Solve Lunar-Lander Environment
 
-I implemented the N-step Advantage-Actor Critic algorithm to solve the LunarLnader environment.
+I implemented the N-step Advantage-Actor Critic algorithm to solve the LunarLander-v2 environment in OpenAI.
 
 
 ## N-Step Advantage Actor-Critic
