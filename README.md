@@ -2,6 +2,7 @@
 
 I implemented the N-step Advantage-Actor Critic algorithm to solve the LunarLander-v2 environment in OpenAI.
 
+![DQN](./assets/algorithm.png)
 
 ## N-Step Advantage Actor-Critic
 
