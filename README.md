@@ -12,7 +12,8 @@ For 100 step, execute:
 ```python3 a2c.py --n=100```
 
 
-##Some Descriptions
+
+## Some Descriptions
 
 The algorithm has the following configuration: 
 
